@@ -1,0 +1,22 @@
+../App/Bmm150/bmm150.cpp:8:1:BMM150::BMM150()	16	static
+../App/Bmm150/bmm150.cpp:11:8:int8_t BMM150::initialize()	24	static
+../App/Bmm150/bmm150.cpp:37:6:void BMM150::read_mag_data()	40	static
+../App/Bmm150/bmm150.cpp:82:9:int16_t BMM150::compensate_x(int16_t, uint16_t)	64	static
+../App/Bmm150/bmm150.cpp:136:9:int16_t BMM150::compensate_y(int16_t, uint16_t)	56	static
+../App/Bmm150/bmm150.cpp:188:9:int16_t BMM150::compensate_z(int16_t, uint16_t)	40	static
+../App/Bmm150/bmm150.cpp:229:6:void BMM150::set_presetmode(uint8_t)	16	static
+../App/Bmm150/bmm150.cpp:268:6:void BMM150::set_odr_xyz_rep(bmm150_settings)	24	static
+../App/Bmm150/bmm150.cpp:277:6:void BMM150::set_xy_rep(bmm150_settings)	32	static
+../App/Bmm150/bmm150.cpp:284:6:void BMM150::set_z_rep(bmm150_settings)	32	static
+../App/Bmm150/bmm150.cpp:291:6:void BMM150::soft_reset()	24	static
+../App/Bmm150/bmm150.cpp:301:6:void BMM150::set_odr(bmm150_settings)	32	static
+../App/Bmm150/bmm150.cpp:310:6:void BMM150::spi_write(short int, short int)	32	static
+../App/Bmm150/bmm150.cpp:328:6:void BMM150::spi_read(short int, uint8_t*, short int)	168	static
+../App/Bmm150/bmm150.cpp:354:6:void BMM150::spi_read(short int, int8_t*, short int)	24	static
+../App/Bmm150/bmm150.cpp:359:6:void BMM150::spi_read(short int, int8_t*, short int, short int)	24	static
+../App/Bmm150/bmm150.cpp:364:9:uint8_t BMM150::spi_read(uint16_t)	32	static
+../App/Bmm150/bmm150.cpp:396:6:void BMM150::set_op_mode(uint8_t)	16	static
+../App/Bmm150/bmm150.cpp:429:6:void BMM150::suspend_to_sleep_mode()	16	static
+../App/Bmm150/bmm150.cpp:436:6:void BMM150::read_trim_registers()	40	static
+../App/Bmm150/bmm150.cpp:467:6:void BMM150::write_op_mode(uint8_t)	24	static
+../App/Bmm150/bmm150.cpp:477:6:void BMM150::set_power_control_bit(uint8_t)	24	static

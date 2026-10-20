@@ -1,0 +1,19 @@
+M:/STM32CubeIDE/workspace/F103-GPS/App/Inc/gnss.h:106:2:GNSS_StateHandle::GNSS_StateHandle()	16	static
+../App/Src/gnss.cpp:65:7:float get_distance(float, float, float, float)	56	static
+../App/Src/gnss.cpp:155:6:void GNSS_Uart_SendAndReceive(const uint8_t*, uint16_t, uint16_t)	24	static
+../App/Src/gnss.cpp:196:6:void GNSS_Init()	4	static
+../App/Src/gnss.cpp:218:6:void GNSS_ParseBuffer()	16	static
+../App/Src/gnss.cpp:259:6:void GNSS_GetUniqID()	8	static
+../App/Src/gnss.cpp:272:6:void GNSS_GetNavigatorData()	8	static
+../App/Src/gnss.cpp:285:6:void GNSS_GetPOSLLHData()	8	static
+../App/Src/gnss.cpp:298:6:void GNSS_GetPVTData()	8	static
+../App/Src/gnss.cpp:312:6:void GNSS_ParseUniqID()	16	static
+../App/Src/gnss.cpp:322:6:void GNSS_SetMode(short int)	16	static
+../App/Src/gnss.cpp:362:6:void GNSS_ParsePVTData()	64	static
+../App/Src/gnss.cpp:454:6:void GNSS_ParseNavigatorData()	4	static
+../App/Src/gnss.cpp:472:6:void GNSS_ParsePOSLLHData()	40	static
+../App/Src/gnss.cpp:510:6:void GNSS_LoadConfig()	8	static
+../App/Src/gnss.cpp:542:6:bool GNSS_VerifyChecksum(uint8_t*)	24	static
+../App/Src/gnss.cpp:570:10:uint16_t GNSS_AppendChecksum(uint8_t*, uint16_t)	24	static
+../App/Src/gnss.cpp:590:1:void __static_initialization_and_destruction_0()	8	static
+../App/Src/gnss.cpp:590:1:cpp)	8	static
