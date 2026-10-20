@@ -1,8 +1,0 @@
-M:/STM32CubeIDE/workspace/F103-GPS/App/Inc/application.h:13:7:Application::Application()	1
-../App/Src/application.cpp:36:6:void calibrate(uint32_t)	8
-../App/Src/application.cpp:105:6:void Application::Init()	1
-../App/Src/application.cpp:136:6:void Application::Loop()	17
-../App/Src/application.cpp:324:6:void Application::UartTxCplt()	1
-../App/Src/application.cpp:335:6:void HAL_UART_TxCpltCallback(UART_HandleTypeDef*)	2
-../App/Src/application.cpp:346:1:void __static_initialization_and_destruction_0()	1
-../App/Src/application.cpp:346:1:cpp)	1
